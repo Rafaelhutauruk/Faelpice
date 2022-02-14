@@ -1,0 +1,9 @@
+(ini hapus aja , Jangan lupa subscribe lemes aku cuk)
+
+
+{
+	"ip":"Palabapakkau.aternos.me",
+	"port": "29885",
+	"name": "Bot Server",
+	"auto-night-skip":"false"
+}
